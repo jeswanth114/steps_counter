@@ -1,4 +1,3 @@
-steps_counter
-=============
+## Steps Counter
 
-An app to count the number of steps. 
+- An app to count the number of steps. 
